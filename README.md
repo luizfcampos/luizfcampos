@@ -1,4 +1,4 @@
-# 👋 Luiz here!
+# Luiz here! 👋 
 
 I'm a backend software engineer with over 7 years of professional experience building resilient and scalable systems.
 
