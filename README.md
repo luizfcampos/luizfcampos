@@ -18,6 +18,5 @@ I'm a backend software engineer with over 7 years of professional experience bui
 - 🎓 Electrical Engineering background
 - 🧠 Passionate about clean code and performance
 - 🏃 I enjoy exercising, practicing karate, exploring nature, playing video games, and hardware tinkering
-- 📈 Not very active on GitHub in recent years, but more projects coming soon!
   
 📫 [LinkedIn](https://www.linkedin.com/in/luiz-campos-b483b1157/) | 📧 [Email me](mailto:campos.luizf@gmail.com)
