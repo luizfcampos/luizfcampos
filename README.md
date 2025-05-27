@@ -25,10 +25,10 @@ I'm a backend software engineer with over 7 years of professional experience bui
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 🛠️ What I Do
-- Build cloud-native microservices
-- Optimize high-throughput message processing systems
-- Architect clean, maintainable backends
-- Tinker with IoT and embedded systems in my free time
+- Design and develop scalable cloud-native microservices
+- Optimize performance and reliability of high-throughput message processing systems
+- Architect clean, maintainable, and efficient backend solutions
+- Explore and experiment with IoT and embedded systems as a personal passion
 
 ### ⚡ A Little More About Me
 - 🎓 Electrical Engineering background
