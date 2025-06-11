@@ -33,10 +33,5 @@ I'm a backend software engineer with over 7 years of professional experience bui
 - Optimize performance and reliability of high-throughput message processing systems
 - Architect clean, maintainable, and efficient backend solutions
 - Explore and experiment with IoT and embedded systems as a personal passion
-
-### ⚡ A Little More About Me
-- 🎓 Electrical Engineering background
-- 🧠 Passionate about clean code and performance
-- 🏃 I enjoy exercising, practicing karate, exploring nature, playing video games, and hardware tinkering
   
 📫 [LinkedIn](https://www.linkedin.com/in/luiz-campos-b483b1157/) | 📧 [Email me](mailto:campos.luizf@gmail.com)
